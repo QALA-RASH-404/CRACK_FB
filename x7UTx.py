@@ -255,10 +255,10 @@ x = datetime.datetime.now()
 
 import requests,sys,os,time
 import requests,sys,os,time
-print(' scrypt by x7UTx ')
 print(f'\033[1;33mᴋᴀᴛ : '+str(dddd)+'-'+str(mmmm)+'-'+str(yyyy)+'~'+str(hour)+'~'+str(mi)+'~'+str(ss)+'')
 
 x3ALAWYx =''
+print(' scrypt by x7UTx ')
 print('ᴍʏ ᴛ.ʟ @x7UTx')
 print('ʙᴏ ᴅᴀxʟ ʙᴜɴɪ ᴛᴏᴏʟ { ᴇɴᴛᴇʀ ʙᴋᴀ }')
 lxl=input("")
